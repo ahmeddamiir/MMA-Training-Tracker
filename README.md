@@ -24,6 +24,7 @@ Ahmed Abdelrahman Mohamed Hassan
 ## Application Architecture
 
 Client ↓ REST API ↓ MongoDB Atlas
+ 
 ---
 
 ## Database Design
