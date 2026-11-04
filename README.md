@@ -1,8 +1,5 @@
-# MMA-Training-Tracker
-Advanced Database Systems Semester Project: An MMA Training Tracker application designed to manage fighters and sessions with complete CRUD functionalities and Express API integration.
 # MMA Training Tracker 🥊
-
-A Database Course Semester Project designed to manage and track mixed martial arts training sessions and fighters. This application demonstrates database design principles, collection relationships, and full CRUD capabilities using a modern tech stack.
+Advanced Database Systems Semester Project: An MMA Training Tracker application designed to manage fighters and sessions with complete CRUD functionalities and Express API integration.
 
 ## 👥 Team Members & Contribution
 * **[Your Name]** - Database Design & API Development
