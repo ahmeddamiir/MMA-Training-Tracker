@@ -1,27 +1,21 @@
 {
-  "name": "mma-training-tracker",
+  "name": "adb_api",
   "version": "1.0.0",
-  "description": "A semester project for managing and tracking MMA (Mixed Martial Arts) training sessions and fighters using MongoDB Atlas and a RESTful API architecture.",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ahmeddamiir/MMA-Training-Tracker.git"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --legacy-watch --env-file=.env server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/ahmeddamiir/MMA-Training-Tracker/issues"
-  },
-  "homepage": "https://github.com/ahmeddamiir/MMA-Training-Tracker#readme",
   "dependencies": {
-    "cors": "^2.8.6",
-    "dotenv": "^18.0.9",
     "express": "^5.3.0",
-    "mongodb": "^7.8.0"
+    "mongodb": "^7.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
